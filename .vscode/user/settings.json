@@ -1,0 +1,35 @@
+{
+    // Manter formação ao salvar
+    "editor.formatOnSave" : false,
+    "editor.formatOnType" : false,
+    "editor.formatOnPaste": false,
+    "workbench.sideBar.location": "right",
+    "sshfs.configs": [],
+    "liveServer.settings.donotVerifyTags": true,
+
+    // Editor Theme
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.rulers": [
+        {
+            "column": 120
+        }
+    ],
+    "workbench.colorTheme": "One Dark Pro",
+    "bracket-pair-colorizer-2.depreciation-notice": false,
+    "editor.fontFamily": "Hack NF, Consolas, 'Courier New', monospace",
+    "intelephense.diagnostics.run": "onSave",
+    "terminal.external.windowsExec": "C:\\Program Files\\WindowsApps\\Microsoft.WindowsTerminal_1.11.3471.0_x64__8wekyb3d8bbwe\\wt.exe",
+    "gitlens.advanced.messages": {
+        "suppressCreatePullRequestPrompt": true,
+        "suppressImproperWorkspaceCasingWarning": true
+    },
+    "explorer.autoReveal": false,
+    "explorer.compactFolders": false,
+    "gitlens.advanced.fileHistoryShowAllBranches": true,
+    "projectManager.git.baseFolders": [
+        "C:\\laragon\\www\\cid"
+    ],
+    "workbench.startupEditor": "none",
+    "window.zoomLevel": -1,
+    "git.autofetch": true,
+}
